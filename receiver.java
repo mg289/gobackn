@@ -3,7 +3,7 @@ import java.lang.* ;
 import java.io.*;
 import java.nio.* ;
 
-public class Receiver{
+public class receiver{
 
 	// data members
 	private static String hostname;
